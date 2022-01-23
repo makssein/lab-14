@@ -1,6 +1,6 @@
-#include <iostream>                                                     // в лучшем случае - n
-#include <fstream>                                                      // в среднем случае - n^2
-#include "timer.cpp"                                                    // в худшем случае - n^3
+#include <iostream>
+#include <fstream>                                                      // для всех случаев n^3, где n - размер матрицы
+#include "timer.cpp"
 
 
 int main() {

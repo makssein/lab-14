@@ -1,6 +1,6 @@
 #include <iostream>
 #include <fstream>                                                      // для всех случаев n^3, где n - размер матрицы
-#include "timer.cpp"
+#include "timer.cpp"                                                    // примерное время работы - 0.000004 сек
 
 
 int main() {
